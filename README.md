@@ -29,7 +29,7 @@ There are some detailed comments in source codes.
 
 
 ## Development environment
-- Unity 2019.3.15f1 / 2019.4.5f1
+- Unity 2019.4.6f1
 
 
 ## Play
