@@ -1,2 +1,35 @@
-# EasyFingerCamera_Documents
-Documents of Easy Finger Camera on the Unity Asset Store
+# Easy Finger Camera
+![icon_160](https://user-images.githubusercontent.com/438767/92995374-004c4f80-f53e-11ea-8bf9-0894af61b110.png)
+
+Easy Finger Camera is a lightweight camera system in PC or Mobile games.
+
+
+![icon_420](https://user-images.githubusercontent.com/438767/92995373-fc203200-f53d-11ea-8610-152c004a5c55.png)
+
+
+## Description
+
+Features
+- Two finger pinch zoom system.
+- One finger movement system.
+- Support various zoom types(Fov, Position, Perspective, Orthographic)
+- Support Smooth zoom, movement.
+- Support PC(mouse), Mobile(touch) devices.
+- Simple structures(Only 3 source codes to implement main feature)
+
+There are some detailed comments in source codes.
+
+
+## Support
+- Questions and bugs : https://github.com/sunduk/EasyFingerCamera_Documents/issues or e-mail(lee.seokhyun@gmail.com)
+
+
+## Documents
+
+
+## Development environment
+- Unity 2019.3.15f1 / 2019.4.5f1
+
+
+## Play
+- Open the _Demo_ file in the _Assets/EasyFingerCamera/Scenes_ folder.
