@@ -1,8 +1,10 @@
 # Easy Finger Camera
 ![icon_160](https://user-images.githubusercontent.com/438767/92995374-004c4f80-f53e-11ea-8bf9-0894af61b110.png)
 
-Easy Finger Camera is a lightweight camera system in PC or Mobile games.
+## Easy Finger Camera is a lightweight camera system in PC or Mobile games.
+Available on Asset Store : link
 
+The official support web site of this asset.
 
 ![icon_420](https://user-images.githubusercontent.com/438767/92995373-fc203200-f53d-11ea-8610-152c004a5c55.png)
 
