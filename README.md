@@ -21,9 +21,8 @@ There are some detailed comments in source codes.
 
 
 ## Support
-- Questions and bugs
--- issue board : https://github.com/sunduk/EasyFingerCamera_Documents/issues
--- e-mail : lee.seokhyun@gmail.com
+- issue board : https://github.com/sunduk/EasyFingerCamera_Documents/issues
+- e-mail : lee.seokhyun@gmail.com
 
 
 ## Documents
