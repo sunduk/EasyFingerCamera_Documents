@@ -10,12 +10,12 @@ Easy Finger Camera is a lightweight camera system in PC or Mobile games.
 ## Description
 
 Features
-- Two finger pinch zoom system.
-- One finger movement system.
+- Zoom system(Two finger pinch on mobile platforms, mouse wheel on PC platforms)
+- Movement system(One finger on mobile platforms, mouse buttons on PC platforms)
 - Support various zoom types(Fov, Position, Perspective, Orthographic)
 - Support Smooth zoom, movement.
 - Support PC(mouse), Mobile(touch) devices.
-- Simple structures(Only 3 source codes to implement main feature)
+- Simple structures(Only 3 source codes and a GameObject to implement main feature)
 
 There are some detailed comments in source codes.
 
