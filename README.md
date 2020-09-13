@@ -29,6 +29,7 @@ There are some detailed comments in source codes.
 
 
 ## Documents
+- https://github.com/sunduk/EasyFingerCamera_Documents/wiki
 
 
 ## Development environment
